@@ -1,3 +1,4 @@
 dependencies {
     compile "com.google.guava:guava:21.0"
+    compile project(':train-interfaces')
 }
