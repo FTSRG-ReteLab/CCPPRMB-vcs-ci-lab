@@ -9,4 +9,5 @@ Sample application for the version control systems and continuous integration la
 * train-user
 
 _gradle application_
-Added from branch-A
+Branch-B is the best branch
+
