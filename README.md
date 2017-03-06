@@ -10,4 +10,3 @@ Sample application for the version control systems and continuous integration la
 
 _gradle application_
 Branch-B is the best branch
-
